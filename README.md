@@ -1,5 +1,3 @@
 ### 👋
 
-- 🐣 I’m a new dev working for a tech company in the PNW.
-- 🌱 I’m currently learning C++
-- 💬 Ask me about: Python, Ruby, nontraditional paths to tech
+- this is just a place for my attempts at learning stuff 🐣
